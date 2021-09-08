@@ -1,0 +1,5 @@
+apache-airflow-providers-papermill==2.0.1
+ipykernel==5.0
+typing-extensions==3.7.4.3
+typing==3.10.0.0
+typeguard==2.7.1
